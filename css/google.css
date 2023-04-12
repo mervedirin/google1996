@@ -1,0 +1,106 @@
+.container{
+    
+    width: 1500px;
+    height: 360px;
+    margin-right: 150px;
+    text-align: center;
+    
+    
+}
+
+.content{
+    background-color: rgb(194, 194, 194);
+    width: 485px;
+    height: 73px;  
+    margin: auto; 
+   
+}
+
+.btn{
+    text-align: center;
+    margin-block: -33px;
+    height: 15px;
+    
+}
+.btn2{
+    margin-top: 46px;
+    float: left;
+    text-decoration: none;
+    margin-right: 1%;
+    margin-left: 27%;
+    
+}
+.btn3{
+    float: left;
+    margin-top: 46px;
+    text-decoration: none;
+    margin-right: 1%;
+    
+}
+.block{
+    margin-block: -74px;
+    margin-block: 10 10;
+    
+}
+.box1{
+    background-color: rgb(114, 194, 197);
+    width: 159px;
+    float: left;
+    height: 94px;
+    margin-top: 75px;
+    float: left;
+    font-size: 10px ;
+    margin-left: -360px;
+    margin-bottom: 2%;
+   
+    
+    
+   
+}
+.box2{
+    background-color: rgb(0, 204, 255);
+    width: 100px;
+    float: left;
+    height: 94px;
+    margin-top: 75px;
+    float: left;
+    font-size: 10px ;
+    margin-left: -193px;
+    margin-bottom: 2%;
+   
+    
+}
+
+.box3{
+    background-color: rgb(0, 183, 255);
+    width: 212px;
+    float: left;
+    height: 94px;
+    margin-top: 75px;
+    font-size: 10px ;
+    margin-left: -86px;
+    margin-bottom: 2%;
+    float: left;
+}
+
+.subscribe
+{
+  font-size: 10px;
+  float: left; 
+  padding-right: 1% ; 
+  margin-right: -52px;
+  margin-left: 43px;
+  font-size: 10px ;
+}
+
+.archive{
+    font-size: 10px;
+    float: left; 
+    margin-left: 62px;
+}
+
+
+/* 
+
+
+*/
